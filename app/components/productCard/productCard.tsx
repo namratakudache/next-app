@@ -6,7 +6,6 @@ const productCard = () => {
   return (
     <div className={styles.css}>
       <AddToCart />
-     
     </div>
   );
 };
